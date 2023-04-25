@@ -4,4 +4,5 @@ sounddevice==0.4.6
 soundfile==0.12.1
 streamlit>=1.7.0
 tensorflow==2.12.0
+portaudio19-dev
 pyaudio==0.2.11
