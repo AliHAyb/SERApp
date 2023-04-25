@@ -336,7 +336,7 @@ spyder-kernels @ file:///C:/ci/spyder-kernels_1634237096710/work
 SQLAlchemy @ file:///C:/ci/sqlalchemy_1626948551162/work
 srsly==2.4.5
 statsmodels==0.12.2
-streamlit==1.7.0
+streamlit==1.21.0
 sympy @ file:///C:/ci/sympy_1635219088507/work
 tables==3.6.1
 tabulate==0.8.9
